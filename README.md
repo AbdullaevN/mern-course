@@ -1,2 +1,2 @@
 # mern-course
-react dev
+ react

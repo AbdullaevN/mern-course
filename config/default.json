@@ -1,0 +1,6 @@
+{
+  "port" : 5000,
+  "jwtSecret": "nurlan youtube mern",
+  "mongoUri": "mongodb+srv://nurlan:nurabdullaev98@cluster0.mzak5.mongodb.net/app?retryWrites=true&w=majority"
+
+}
